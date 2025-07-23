@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Slocaly&rank=A,S&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Slocaly/Slocaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
